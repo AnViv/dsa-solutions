@@ -48,3 +48,15 @@ public class LexicographicallyNextPermutationString {
         }
     }
 }
+
+//output
+/*
+gfg->ggf
+bgedcba->cabbdeg
+ggf->No next permutation
+dcba->No next permutation
+fgedcba->gabcdef
+agedcba->baacdeg
+egedcba->gabcdee
+gzedcba->zabcdeg
+ */
