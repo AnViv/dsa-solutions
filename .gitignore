@@ -1,0 +1,12 @@
+# Compiled class file
+*.class
+
+# macOS folder attributes
+.DS_Store
+
+# IDE directories
+.idea/
+*.iml
+.vscode/
+target/
+out/
